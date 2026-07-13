@@ -1,0 +1,22 @@
+[project]
+name = "langgraph-deepagent-skills-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "deepagents>=0.5.9",
+    "langgraph>=1.0.0,<2.0",
+    "langchain>=1.0.0,<2.0",
+    "langchain-core>=1.3.3,<2.0",
+    "langchain-openai",
+    "langgraph-cli[inmem]>=0.4.0",
+    "python-dotenv",
+    "langsmith[sandbox]",
+    "langchain-community>=0.4.2",
+    "deepagents-code",
+    "langchain-quickjs",
+    "langchain-mcp-adapters",
+    "tavily-python",
+    "markdown",
+]
