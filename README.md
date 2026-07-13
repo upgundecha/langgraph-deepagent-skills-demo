@@ -1,2 +1,2 @@
 # langgraph-deepagent-skills-demo
-LangGraph Deepagents Skills Demo
+LangGraph Deep agents Skills Demo
