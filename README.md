@@ -17,9 +17,8 @@ This project creates an AI-powered SRE assistant that can autonomously triage al
 └── skills/
     ├── triage-alert/
     │   └── SKILL.md          # Skill: triage an alert and decide how to respond
-    ├── write-postmortem/
-    │   └── SKILL.md          # Skill: write a blameless postmortem for a resolved incident
-    └── endoflife-date/       # (placeholder for end-of-life date skill)
+    └── write-postmortem/
+        └── SKILL.md          # Skill: write a blameless postmortem for a resolved incident
 ```
 
 ## Skills
